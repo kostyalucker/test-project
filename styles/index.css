@@ -1,0 +1,27 @@
+li {
+    color: aqua;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.center-block {
+    border: 2px solid red;
+}
+
+.section-banner {
+    background: linear-gradient(230.95deg, #CB1AE8 -0.37%, #37BDA6 100%);
+}
+
+.second {
+    font-size: 40px;
+}
+
+.header-img {
+    width: 400px;
+    height: 300px;
+}
+
+#footer {
+   background-color: rgb(0, 0, 0); 
+   color: #fff;
+}
